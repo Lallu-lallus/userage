@@ -44,6 +44,10 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - [Easy Method](#local-deploy---easy-method)
 - [Latest Method](#local-deploy---latest-method)
 
+##Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/userage)
+
+
 
 ### Local Deploy - Latest Method
 This is the latest and most fastest method currently.<br>
